@@ -1,0 +1,3 @@
+[submodule "mrbgems/mruby-md5"]
+	path = mrbgems/mruby-md5
+	url = https://github.com/mattn/mruby-md5.git
